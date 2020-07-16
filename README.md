@@ -1,6 +1,7 @@
 # nearclient
 [![PkgGoDev](https://pkg.go.dev/badge/github.com/akme/nearclient)](https://pkg.go.dev/github.com/akme/nearclient)
 [![Go Report Card](https://goreportcard.com/badge/github.com/akme/nearclient)](https://goreportcard.com/report/github.com/akme/nearclient) 
+[![GoDoc](https://godoc.org/github.com/akme/nearclient?status.svg)](https://godoc.org/github.com/akme/nearclient) 
 
 nearclient is golang client library to interact with NEAR Protocol via RPC API, inspired by ethclient.
 
@@ -23,7 +24,7 @@ go get -u github.com/akme/nearclient
 ```
 
 ## Docs
-For docs go to [pkg.go.dev](https://pkg.go.dev/github.com/akme/nearclient)
+For docs go to [pkg.go.dev](https://pkg.go.dev/github.com/akme/nearclient) or [godoc](https://godoc.org/github.com/akme/nearclient)
 
 ## Contribute
 Pull Requests are welcome!
